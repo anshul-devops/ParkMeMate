@@ -1,0 +1,101 @@
+{
+    "results": [
+        {
+            "address_components": [
+                {
+                    "long_name": "Amdocs Building",
+                    "short_name": "Amdocs Building",
+                    "types": [
+                        "premise"
+                    ]
+                },
+                {
+                    "long_name": "150",
+                    "short_name": "150",
+                    "types": [
+                        "street_number"
+                    ]
+                },
+                {
+                    "long_name": "Lonsdale Street",
+                    "short_name": "Lonsdale St",
+                    "types": [
+                        "route"
+                    ]
+                },
+                {
+                    "long_name": "Melbourne",
+                    "short_name": "Melbourne",
+                    "types": [
+                        "locality",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Melbourne City",
+                    "short_name": "Melbourne",
+                    "types": [
+                        "administrative_area_level_2",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Victoria",
+                    "short_name": "VIC",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "Australia",
+                    "short_name": "AU",
+                    "types": [
+                        "country",
+                        "political"
+                    ]
+                },
+                {
+                    "long_name": "3000",
+                    "short_name": "3000",
+                    "types": [
+                        "postal_code"
+                    ]
+                }
+            ],
+            "formatted_address": "Amdocs Building, 150 Lonsdale St, Melbourne VIC 3000, Australia",
+            "geometry": {
+                "bounds": {
+                    "northeast": {
+                        "lat": -37.8101067,
+                        "lng": 144.9679405
+                    },
+                    "southwest": {
+                        "lat": -37.8105511,
+                        "lng": 144.9674084
+                    }
+                },
+                "location": {
+                    "lat": -37.8103098,
+                    "lng": 144.9676801
+                },
+                "location_type": "ROOFTOP",
+                "viewport": {
+                    "northeast": {
+                        "lat": -37.8089799197085,
+                        "lng": 144.9690234302915
+                    },
+                    "southwest": {
+                        "lat": -37.81167788029149,
+                        "lng": 144.9663254697085
+                    }
+                }
+            },
+            "place_id": "ChIJKzIpQslC1moRtBH5I7MZ3hA",
+            "types": [
+                "premise"
+            ]
+        }
+    ],
+    "status": "OK"
+}
